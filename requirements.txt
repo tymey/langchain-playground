@@ -1,0 +1,7 @@
+langchain
+openai
+faiss-cpu
+chromadb
+pypdf
+python-docx
+streamlit
